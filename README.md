@@ -48,4 +48,7 @@ Also the Double Dominant glyph is achieved typing two times letter D.
 
 If you want to write a secondary dominant simply write at first the grade using V and I, and then use the slash character (/) and then the grade this dominant is refering to. After that you can write function and inversion.
 
-Some times the music engraving software uses dash as a syllable separator. In this cases you may try typing endash (alt+dash) to write inversion changes with an horizontal line. 
+Some times the music engraving software uses dash as a syllable separator. In this cases you may try typing endash (alt+dash) to write inversion changes with an horizontal line.
+
+An example of using Sesquialtera:
+<img src="./Sesquialtera-example.jpg">
