@@ -51,4 +51,4 @@ If you want to write a secondary dominant simply write at first the grade using 
 Some times the music engraving software uses dash as a syllable separator. In this cases you may try typing endash (alt+dash) to write inversion changes with an horizontal line.
 
 An example of using Sesquialtera:
-<img src="./Sesquialtera-example.jpg">
+<img src="./Sesquialtera-example.png">
